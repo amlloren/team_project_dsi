@@ -1,5 +1,7 @@
 # Team Project
 
+TEAM PROJECT VIDEO LINK: [Adrienne Lloren](https://drive.google.com/file/d/1ASvZEvJ-3i7NKkFGaMeeubGUNcCa5nAl/view?usp=drive_link)
+
 ## Description
 
 In your assigned team of 4-5, you will collaboratively create a program to analyze data from an open-sourced dataset. 
